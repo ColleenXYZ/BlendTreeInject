@@ -1,0 +1,16 @@
+{
+  "name": "com.colleenxyz.blendtreeinject",
+  "displayName": "Blend Tree Injector",
+  "version": "2025.6.30",
+  "description": "A tool for injecting blend trees into Unity projects, enhancing animation workflows.",
+  "author": {
+    "name": "ColleenXYZ",
+    "url": "https://github.com/ColleenXYZ/BlendTreeInject"
+  },
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0"
+  },
+  "hideInEditor": false,
+  "license": "MIT",
+  "unity": "2022.3"
+}
